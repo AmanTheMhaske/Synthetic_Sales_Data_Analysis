@@ -1,6 +1,6 @@
 Prject Brif:
 
-Data Analysis Assignment for Data Analyst Position
+Data Analysis Assignment
 Objective:
 You are provided with a dataset that simulates software sales data for a global IT company. Your task is to analyze the data to identify trends, provide insights into sales performance, and suggest actionable strategies that could be employed to improve sales outcomes.
 
